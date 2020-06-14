@@ -114,17 +114,17 @@ experiences:
             - Synchronisation avec des bases de données distantes.
 
           Développement de Ucar RentSmarter. Application mobile permettant de réserver des véhicules connectés. L'application permet entre autre de vérifier la validité de la pièce d'identité de l'utilisateur et lui permet de réaliser un état des lieux via l'application.
-            - Javascript (React-native) | Redux - Redux-Saga
+            - Javascript (React-native) \| Redux \| Redux-Saga
             - Développement d'une librairie native (Java) pour la connexion aux véhicules connectés.
             - Tests unitaires
             - Déploiement sur Android
 
           Développement de Ucar2Share. Application dédiée au partage de véhicules entre particuliers.
-            - Typescript (React-native) | Redux - Redux-Saga
+            - Typescript (React-native) \| Redux - Redux-Saga
             - Gestion d'une équipe de trois développeurs en agilité.
             - Modélisation d'une architecture par domaine.
 
-    - role: Developpeur Mobile
+    - role: Stage - Developpeur Mobile
       time: 2018
       company: Ucar Technologies, Bordeaux
       details: |
