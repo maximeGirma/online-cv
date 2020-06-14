@@ -153,6 +153,14 @@ competences:
         - API (MVC, REST, IOC)
         - Modélisation des systèmes (UML, Merise)
 
+  - role: DevOps / Administration
+      time:
+      company:
+      details: |+
+        - Linux (Debian)
+        - Docker
+        -
+
 
 
 publications:
