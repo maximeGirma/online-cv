@@ -65,7 +65,7 @@ education:
           - Bullet point
     - degree: Analyste Programmeur
       university: Cesi Bordeaux
-      time: 2017  2018
+      time: 2017 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -76,7 +76,7 @@ education:
           - Bullet point
     - degree: Master 1 Psychologie Clinique
         university: Université Jean Jaures Toulouse
-        time: 2010  2017
+        time: 2010 - 2017
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
