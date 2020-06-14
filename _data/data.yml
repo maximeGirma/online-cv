@@ -100,7 +100,7 @@ experiences:
 
           - Développement de Ucar2Share. Application dédiée au partage de véhicules entre particuliers.
           Gestion des comptes, des groupes et des invitations, Réservations
-            - Typescript (React-native) \| Redux - Redux-Saga
+          Typescript (React-native) \| Redux - Redux-Saga
 
     - role: Stage - Developpeur Mobile
       time: 2018
