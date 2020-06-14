@@ -82,12 +82,13 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Developpeur Full Stack
+    - role: Developpeur Full Stack (Alternance)
       time: 2018 - 2020
       company: UCAR Tchnologies, Bordeaux
       details: |+
-          - Conception, Développement et déploiement d'une application back end RestFull dédiée à la nouvelle logique métier de l'entreprise
+          - Conception, Développement et déploiement d'une application back end RestFull dédiée à la nouvelle logique métier de l'entreprise.
             - Gestion des comptes, gestion des réservations et des états des lieux de véhicules.
+            - Création de stack docker, Déploiement et maintien en conditions opérationnelles.
             - Python3 (Flask - SQLAlquemy) \| Mysql \| Docker \| Swagger \| JSON
 
           <p> </p>
@@ -102,8 +103,14 @@ experiences:
             - Gestion des comptes, des groupes et des invitations, Réservations
             - Typescript (React-native) \| Redux - Redux-Saga
 
+          <p> </p>
 
-    - role: Stage - Developpeur Mobile
+          - Développement de Scherlock. Application Web permettant de vérifier en tant réél l'état du SI (Projet de fin d'etudes).
+            - Pilotage, gestion de projet, encadrement de développeurs, revue de code
+            - Conception de la solution, Développement du back-end
+            - Javascript(React.js) \| Python3 (Flask)
+
+    - role: Developpeur Mobile (Stage)
       time: 2018
       company: Ucar Technologies, Bordeaux
       details: |
@@ -146,8 +153,9 @@ competences:
     time:
     company:
     details: |+
-      - API Web (MVC, REST, IOC)
-      - Modélisation des systèmes (UML, Merise)
+      - Conception et design d'API Web (MVC, REST, IOC)
+      - Modélisation des systèmes en UML
+      - Modélisation des données (Merise)
 
   - role: DevOps / Administration
     time:
