@@ -91,25 +91,15 @@ experiences:
       company: UCAR Tchnologies, Bordeaux
       details: |
           Conception, Développement et déploiement d'une application back end RestFull dédiée à la nouvelle logique métier de l'entreprise (Gestion des comptes, gestion des réservations et des états des lieux de véhicules).
-            - Python3 (Flask - SQLAlquemy) \| Mysql \| Docker \| Swagger \| JSON
-            - Sécurisation par Authentification JWT.
-            - Tests unitaires (Pytest)
-            - Déploiement et administration de la production.
-            - Gestion de logique métier par client applicatifs (IOC).
-            - Gestion des clés virtuelles pour véhicules connectés.
-            - Gestion des réservation et des états des lieux.
-            - Synchronisation avec des bases de données distantes.
+          Python3 (Flask - SQLAlquemy) \| Mysql \| Docker \| Swagger \| JSON
 
-          Développement de Ucar RentSmarter. Application mobile permettant de réserver des véhicules connectés. L'application permet entre autre de vérifier la validité de la pièce d'identité de l'utilisateur et lui permet de réaliser un état des lieux via l'application.
-            - Javascript (React-native) \| Redux \| Redux-Saga
-            - Développement d'une librairie native (Java) pour la connexion aux véhicules connectés.
-            - Tests unitaires
-            - Déploiement sur Android
+          Concéption et Développement de Ucar RentSmarter. Application mobile de location de véhicules connectés.
+          Gestion des comptes, Recherche par géolocalisation, Réservations, Gestion des clés virtuelles, Etats des lieux, Ouverture et démarrage du véhicule (BLE)
+          Javascript (React-native) \| Redux \| Redux-Saga
 
           Développement de Ucar2Share. Application dédiée au partage de véhicules entre particuliers.
+          Gestion des comptes, des groupes et des invitations, Réservations
             - Typescript (React-native) \| Redux - Redux-Saga
-            - Gestion d'une équipe de trois développeurs en agilité.
-            - Modélisation d'une architecture par domaine.
 
     - role: Stage - Developpeur Mobile
       time: 2018
