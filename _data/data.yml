@@ -14,35 +14,32 @@ sidebar:
     # Sidebar links
     email: hello@webjeda.com
     phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+#    website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+#    telegram: # add your nickname without '@' sign
+#    gitlab:
+#    bitbucket:
+#    twitter: '@webjeda'
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
-
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Jeux vidéos
         link:
 
-      - item: Snowboarding
+      - item: Science fiction
         link:
 
-      - item: Cooking
+      - item: Aerospatial / Astronomie
         link:
 
 career-profile:
@@ -78,7 +75,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Developpeur Full Stackkkk
+    - role: Developpeur Full Stack
       time: 2018 - 2020
       company: UCAR Tchnologies, Bordeaux
       details: |
