@@ -107,23 +107,22 @@ experiences:
       time: 2018
       company: Ucar Technologies, Bordeaux
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Création d'une application mobile de location de véhicules connectés en React-Native.
+        - Gestion des comptes et des réservations.
+        - Gestion des états des lieux des véhicules connectés.
+        - Gestion des clés virtuelles.
 
     - role: Service civique
       time: 2016 - 2017
       company: Maison des Ados, Montauban
       details: |
+        Accompagnement d'adolescents en difficulté. Création et animation d'activités. Gestion des outils numériques de l'association.
 
     - role: Aide à domicile
       time: 2012 - 2016
       company: Multiples employeurs, Toulouse
       details: |
+        Prise en charge de personnes en difficulté dans leur vie quotidienne.
 projects:
     title: Projects
     intro: >
