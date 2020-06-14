@@ -79,8 +79,8 @@ experiences:
       time: 2018 - 2020
       company: UCAR Tchnologies, Bordeaux
       details: |
-          - Développement Back End - Python - Flask
-          |Reprise et refactorisation d'une Api Web RestFull développée avec le framework Flask.
+          | - Développement Back End - Python - Flask
+          | Reprise et refactorisation d'une Api Web RestFull développée avec le framework Flask.
 #        Implémentation d'un pattern MVC avec IOC.
 #        Dockerisation de la solution
 #        Développement de nouvelles fonctionnalitées:
