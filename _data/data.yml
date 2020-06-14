@@ -43,14 +43,13 @@ sidebar:
         link:
 
       - item: Aperos
-          link:
+        link:
 
 career-profile:
     title: A propos de moi
     summary: |
-      Touche à tout en dev, j’aime découvrir de nouvelles choses. Dans mes projets personnels je cherche avant tout à explorer et à expérimenter Cela me permet de m’ouvrir à différentes approches et d’enrichir ma pratique.
-
-      Aujourd'hui je recherche avant à consolider mes compétences et me construire un socle de bonnes pratiques.
+      | Touche à tout en dev, j’aime découvrir de nouvelles choses. Dans mes projets personnels je cherche avant tout à explorer et à expérimenter Cela me permet de m’ouvrir à différentes approches et d’enrichir ma pratique.
+      | Aujourd'hui je recherche avant à consolider mes compétences et me construire un socle de bonnes pratiques.
 education:
     - degree: Responsable en Ingénierie des Logiciels (Niveau 6)
       university: CESI Bordeaux
