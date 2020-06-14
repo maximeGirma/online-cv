@@ -52,9 +52,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Responsable en Ingénierie des Logiciels
+      university: CESI, Bordeaux
+      time: 2018 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,9 +63,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Analyste Programmeur
+      university: Cesi, Bordeaux
+      time: 2017 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -74,6 +74,17 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: Master 1 Psychologie Clinique
+        university: Université Jean Jaures, Toulouse
+        time: 2010 - 2017
+        details: |
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Bullet point
+            - Bullet point
 experiences:
     - role: Developpeur Full Stack
       time: 2018 - 2020
@@ -169,10 +180,10 @@ skills:
       - name: Python & Flask
         level: 90%
 
-      - name: Javascript & react-native
+      - name: Typescript & react-native
         level: 90%
 
-      - name: Typescript
+      - name:  Javascript & react
         level: 70%
 
       - name: Java
