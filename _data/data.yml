@@ -93,13 +93,13 @@ experiences:
           - Conception, Développement et déploiement d'une application back end RestFull dédiée à la nouvelle logique métier de l'entreprise
             - Gestion des comptes, gestion des réservations et des états des lieux de véhicules.
             - Python3 (Flask - SQLAlquemy) \| Mysql \| Docker \| Swagger \| JSON
-
+          <br/>
 
           - Conception et Développement de Ucar RentSmarter. Application mobile de location de véhicules connectés.
             - Gestion des comptes, Recherche par géolocalisation, Réservations, Gestion des clés virtuelles, Etats des lieux, Ouverture et démarrage du véhicule (BLE)
             - Javascript (React-native) \| Redux \| Redux-Saga
-          <p></p>
-          <p></p>
+          <br/>
+
 
           - Développement de Ucar2Share. Application dédiée au partage de véhicules entre particuliers.
             - Gestion des comptes, des groupes et des invitations, Réservations
