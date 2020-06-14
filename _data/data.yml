@@ -154,6 +154,16 @@ competences:
       - Docker & docker-compose
       - Scripting (python3, bash)
 
+  - role: Langages et Frameworks
+    time:
+    company:
+    details: |+
+      - Python 3 (Flask)
+      - Javascript (React, React-Native)
+      - Typescript (React-Native)
+      - Java (SpringBoot, Hibernate)
+      - C# (.net)
+
 
 
 
