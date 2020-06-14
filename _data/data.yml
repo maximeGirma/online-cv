@@ -104,7 +104,7 @@ experiences:
           Projets :
 
           Développement d'une Api Web RestFull dédiée à la nouvelle logique métier de l'entreprise (Véhicules connectés et partage entre particuliers)
-            - Python3 (Flask - SQLAlquemy) | Mysql | Docker | Swagger | JSON
+            - Python3 (Flask - SQLAlquemy) \| Mysql | Docker | Swagger | JSON
             - Sécurisation par Authentification JWT.
             - Tests unitaires (Pytest)
             - Déploiement et administration de la production.
