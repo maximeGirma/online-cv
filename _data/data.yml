@@ -100,23 +100,34 @@ experiences:
             - Analyse du besoin et constitution de backlogs
             - Suivi de projets
             - Maintenance applicative et gestion des urgences
-          | Reprise et refactorisation d'une Api Web RestFull développée avec le framework Flask.
-          | Implémentation d'un pattern MVC avec IOC.
-          | Dockerisation de la solution
-          | Développement de nouvelles fonctionnalitées:
-          | - Sécurisation par Authentification JWT.
-          | - Gestion de logique métier par client.
-          | - Gestion des clés virtuelles pour véhicules connectés
-          | - Gestion des réservation et des états des lieux.
-          | - Synchronisation avec des bases de données distantes.
 
-          | - Développement mobile - React-native
+          Projets :
+          Développement d'une Api Web RestFull dédiée à la nouvelle logique métier de l'entreprise (Véhicules connectés et partage entre particuliers)
+            - Python3 (Flask - SQLAlquemy) | Mysql | Docker | Swagger | JSON
+            - Sécurisation par Authentification JWT.
+            - Tests unitaires (Pytest)
+            - Déploiement et administration de la production.
+            - Gestion de logique métier par client applicatifs (IOC).
+            - Gestion des clés virtuelles pour véhicules connectés.
+            - Gestion des réservation et des états des lieux.
+            - Synchronisation avec des bases de données distantes.
+
+          Développement de Ucar RentSmarter. Application mobile permettant de réserver des véhicules connectés. L'application permet entre autre de vérifier la validité de la pièce d'identité de l'utilisateur et lui permet de réaliser un état des lieux via l'application.
+            - Javascript (React-native) | Redux - Redux-Saga
+            - Développement d'une librairie native (Java) pour la connexion aux véhicules connectés.
+            - Tests unitaires
+            - Déploiement sur Android
+
+          Développement de Ucar2Share. Application dédiée au partage de véhicules entre particuliers.
+            - Typescript (React-native) | Redux - Redux-Saga
+            - Gestion d'une équipe de trois développeurs en agilité.
+            - Modélisation d'une architecture par domaine.
 
     - role: Developpeur Mobile
       time: 2018
       company: Ucar Technologies, Bordeaux
       details: |
-        Création d'une application mobile de location de véhicules connectés en React-Native.
+        Réalisation d'un POC pour une application mobile dédiée à la location de véhicules connectés en React-Native.
         - Gestion des comptes et des réservations.
         - Gestion des états des lieux des véhicules connectés.
         - Gestion des clés virtuelles.
@@ -132,6 +143,7 @@ experiences:
       company: Multiples employeurs, Toulouse
       details: |
         Prise en charge de personnes en difficulté dans leur vie quotidienne.
+
 projects:
     title: Projects
     intro: >
@@ -139,9 +151,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Scherlock
+        link: ""
+        tagline: "Cette application Web a constituée "
 
       - title: DevStudio
         link: "#"
