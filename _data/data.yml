@@ -129,8 +129,8 @@ experiences:
         Prise en charge de personnes en difficulté dans leur vie quotidienne.
 
 competences:
-  - role: Developpeur Full Stack
-    time: 2018 - 2020
+  - role: Architecture / Conception
+    time:
     company: UCAR Tchnologies, Bordeaux
     details: |+
       - Conception, Développement et déploiement d'une application back end RestFull dédiée à la nouvelle logique métier de l'entreprise
