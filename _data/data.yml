@@ -67,7 +67,7 @@ education:
       details: |
 
 experiences:
-    - role: Developpeur Full Stack (Alternance)
+    - role: Développeur Full Stack (Alternance)
       time: 2018 - 2020
       company: UCAR Technologies, Bordeaux
       details: |+
@@ -98,7 +98,7 @@ experiences:
             - Conception de la solution, développement du back-end
             - Javascript(React.js) \| Python3 (Flask)
 
-    - role: Developpeur Mobile (Stage)
+    - role: Développeur Mobile (Stage)
       time: 2018
       company: Ucar Technologies, Bordeaux
       details: |
