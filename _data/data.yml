@@ -182,7 +182,7 @@ publications:
 skills:
     title: Langages
     toolset:
-      - name: Python & Flask
+      - name: Python 3 & Flask
         level: 90%
 
       - name: React & react-native
