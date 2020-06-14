@@ -80,7 +80,7 @@ education:
 experiences:
     - role: Developpeur Full Stackkkk
       time: 2018 - 2020
-      company: UCAR Tchnologies
+      company: UCAR Tchnologies, Bordeaux
       details: |
           - Développement Back End - Python - Flask
         Reprise et refactorisation d'une Api Web RestFull développée avec le framework Flask.
@@ -95,9 +95,9 @@ experiences:
 
         - Développement mobile - React-native
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Developpeur Mobile
+      time: 2018
+      company: Ucar Technologies, Bordeaux
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -106,17 +106,16 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+    - role: Service civique
+      time: 2016 - 2017
+      company: Maison des Ados, Montauban
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
+    - role: Aide à domicile
+        time: 2012 - 2016
+        company: Multiples employeurs, Toulouse
+        details: |
 projects:
     title: Projects
     intro: >
@@ -170,22 +169,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python & Flask
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript & react-native
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Typescript
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Java
+        level: 60%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: C#
         level: 60%
 
 footer: >
