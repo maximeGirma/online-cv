@@ -45,14 +45,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Touche à tout en dev, j’aime découvrir de nouvelles choses. Dans mes projets personnels je cherche avant tout à explorer et à expérimenter Cela me permet de m’ouvrir à différentes approches et d’enrichir ma pratique.
+      Et pour me détendre c’est jeux vidéos (grand fan de 4X !), lecture de SF, Apéro, week-ends à la campagne et jeux de rôles !
 education:
-    - degree: Responsable en Ingénierie des Logiciels
+    - degree: Responsable en Ingénierie des Logiciels (Niveau 6)
       university: CESI Bordeaux
       time: 2018 - 2020
       details: |
@@ -63,7 +59,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: Analyste Programmeur
+    - degree: Analyste Programmeur (Niveau 5)
       university: Cesi Bordeaux
       time: 2017 - 2018
       details: |
