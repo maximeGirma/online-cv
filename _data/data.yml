@@ -89,7 +89,7 @@ experiences:
     - role: Developpeur Full Stack
       time: 2018 - 2020
       company: UCAR Tchnologies, Bordeaux
-      details: |
+      details: |+
           - Conception, Développement et déploiement d'une application back end RestFull dédiée à la nouvelle logique métier de l'entreprise
             - Gestion des comptes, gestion des réservations et des états des lieux de véhicules.
             - Python3 (Flask - SQLAlquemy) \| Mysql \| Docker \| Swagger \| JSON
