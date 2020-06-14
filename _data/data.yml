@@ -26,10 +26,10 @@ sidebar:
 #    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: French
+      - idiom: Français
         level: natif
 
-      - idiom: English
+      - idiom: Anglais
         level: C1
 
     interests:
@@ -53,8 +53,8 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: Responsable en Ingénierie des Logiciels
-      university: CESI, Bordeaux
-      time: 2018 - 2020
+      university: CESI Bordeaux
+      time: 2018  2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -64,8 +64,8 @@ education:
           - Bullet point
           - Bullet point
     - degree: Analyste Programmeur
-      university: Cesi, Bordeaux
-      time: 2017 - 2018
+      university: Cesi Bordeaux
+      time: 2017  2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,8 +75,8 @@ education:
           - Bullet point
           - Bullet point
     - degree: Master 1 Psychologie Clinique
-        university: Université Jean Jaures, Toulouse
-        time: 2010 - 2017
+        university: Université Jean Jaures Toulouse
+        time: 2010  2017
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
