@@ -71,31 +71,31 @@ experiences:
       time: 2018 - 2020
       company: UCAR Technologies, Bordeaux
       details: |+
-          - Conception, Développement et déploiement d'une application back end RestFull dédiée à la nouvelle logique métier de l'entreprise.
+          - Conception, développement et déploiement d'une application back end RestFull dédiée à la nouvelle logique métier de l'entreprise.
             - Gestion des comptes, gestion des réservations et des états des lieux de véhicules.
-            - Création de stack docker, Déploiement et maintien en conditions opérationnelles.
+            - Création de stack docker, déploiement et maintien en conditions opérationnelles.
             - Python3 (Flask - SQLAlquemy) \| Mysql \| Docker \| Swagger \| JSON
 
           <p> </p>
           <p> </p>
 
-          - Conception et Développement de Ucar RentSmarter. Application mobile de location de véhicules connectés.
-            - Gestion des comptes, Recherche par géolocalisation, Réservations, Gestion des clés virtuelles, Etats des lieux, Ouverture et démarrage du véhicule (BLE)
+          - Conception et développement de Ucar RentSmarter. Application mobile de location de véhicules connectés.
+            - Gestion des comptes, recherche par géolocalisation, réservations, gestion des clés virtuelles, états des lieux, ouverture et démarrage du véhicule (BLE)
             - Javascript (React-native) \| Redux \| Redux-Saga
 
           <p> </p>
           <p> </p>
 
-          - Conception et Développement de Ucar2Share. Application dédiée au partage de véhicules entre particuliers.
-            - Gestion des comptes, des groupes et des invitations, Réservations
+          - Conception et développement de Ucar2Share. Application dédiée au partage de véhicules entre particuliers.
+            - Gestion des comptes, des groupes, des invitations et des réservations
             - Typescript (React-native) \| Redux - Redux-Saga
 
           <p> </p>
           <p> </p>
 
-          - Conception et Développement de Scherlock. Application Web permettant de vérifier en tant réél l'état du SI (Projet de fin d'etudes).
+          - Conception et développement de Scherlock. Application Web permettant de vérifier en tant réél l'état du SI (Projet de fin d'etudes).
             - Pilotage, gestion de projet, encadrement de développeurs, revue de code
-            - Conception de la solution, Développement du back-end
+            - Conception de la solution, développement du back-end
             - Javascript(React.js) \| Python3 (Flask)
 
     - role: Developpeur Mobile (Stage)
