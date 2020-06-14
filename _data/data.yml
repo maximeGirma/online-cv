@@ -159,10 +159,12 @@ competences:
     company:
     details: |+
       - Python 3 (Flask)
-      - Javascript (React, React-Native)
+      - Javascript (React, React-Native, Vue.js)
       - Typescript (React-Native)
       - Java (SpringBoot, Hibernate)
       - C# (.net)
+      - PHP (Laravel)
+      - Bash
 
 
 
