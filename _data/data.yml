@@ -27,7 +27,7 @@ sidebar:
 
     languages:
       - idiom: Français
-        level: natif
+        level:
 
       - idiom: Anglais
         level: C1
