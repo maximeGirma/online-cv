@@ -142,7 +142,7 @@ competences:
     time:
     company:
     details: |+
-      - Approche TTD du déveleppement
+      - Approche TDD du déveleppement
       - Versionnement (Git & GitFlow, Bitbucket & GitLab)
 
 
@@ -150,16 +150,18 @@ competences:
     time:
     company:
     details: |+
-      - API (MVC, REST, IOC)
+      - API Web (MVC, REST, IOC)
       - Modélisation des systèmes (UML, Merise)
 
   - role: DevOps / Administration
     time:
     company:
     details: |+
-      - Linux (Debian)
-      - Docker
+      - Administration Linux (Debian)
+      - Administration serveur Web (Apache2, Nginx, Traefik)
+      - Docker & docker-compose
       -
+
 
 
 
@@ -186,8 +188,7 @@ publications:
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Langages
     toolset:
       - name: Python & Flask
         level: 90%
