@@ -48,8 +48,8 @@ sidebar:
 career-profile:
     title: A propos de moi
     summary: |
-      | Touche à tout en dev, j’aime découvrir de nouvelles choses. Dans mes projets personnels je cherche avant tout à explorer et à expérimenter Cela me permet de m’ouvrir à différentes approches et d’enrichir ma pratique.
-      | Aujourd'hui je recherche avant à consolider mes compétences et me construire un socle de bonnes pratiques.
+      | Touche à tout en dev, j’aime découvrir de nouvelles choses. Dans mes projets personnels je cherche avant tout à explorer et à expérimenter. Cela me permet de m’ouvrir à différentes approches et d’enrichir ma pratique.
+      | Aujourd'hui je cherche à consolider mes compétences et me construire un socle de bonnes pratiques.
 education:
     - degree: Responsable en Ingénierie des Logiciels (Niveau 6)
       university: CESI Bordeaux
@@ -95,17 +95,20 @@ experiences:
             - Python3 (Flask - SQLAlquemy) \| Mysql \| Docker \| Swagger \| JSON
 
           <p> </p>
+          <p> </p>
 
           - Conception et Développement de Ucar RentSmarter. Application mobile de location de véhicules connectés.
             - Gestion des comptes, Recherche par géolocalisation, Réservations, Gestion des clés virtuelles, Etats des lieux, Ouverture et démarrage du véhicule (BLE)
             - Javascript (React-native) \| Redux \| Redux-Saga
 
           <p> </p>
+          <p> </p>
 
           - Développement de Ucar2Share. Application dédiée au partage de véhicules entre particuliers.
             - Gestion des comptes, des groupes et des invitations, Réservations
             - Typescript (React-native) \| Redux - Redux-Saga
 
+          <p> </p>
           <p> </p>
 
           - Développement de Scherlock. Application Web permettant de vérifier en tant réél l'état du SI (Projet de fin d'etudes).
