@@ -147,19 +147,19 @@ competences:
 
 
   - role: Architecture / Conception
-      time:
-      company:
-      details: |+
-        - API (MVC, REST, IOC)
-        - Modélisation des systèmes (UML, Merise)
+    time:
+    company:
+    details: |+
+      - API (MVC, REST, IOC)
+      - Modélisation des systèmes (UML, Merise)
 
   - role: DevOps / Administration
-      time:
-      company:
-      details: |+
-        - Linux (Debian)
-        - Docker
-        -
+    time:
+    company:
+    details: |+
+      - Linux (Debian)
+      - Docker
+      -
 
 
 
