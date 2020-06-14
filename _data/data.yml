@@ -90,22 +90,7 @@ experiences:
       time: 2018 - 2020
       company: UCAR Tchnologies, Bordeaux
       details: |
-          <strong>Environnement de travail :</strong>
-            - Filiale de Ucar dédiée au développement des outils numériques de l'entreprise.
-            - Travail en agilité au sein d'une équipe de 8 personnes.
-
-
-          <strong>Fonctions au sein de l'entreprise :</strong>
-            - Développement d'applications mobiles et de sites internet (Back & Front)
-            - Admistration des serveurs (prod et pré-prod)
-            - Analyse du besoin et constitution de backlogs
-            - Suivi de projets
-            - Maintenance applicative
-          <br/>
-
-          <strong>Projets :</strong>
-
-          Développement d'une Api Web RestFull dédiée à la nouvelle logique métier de l'entreprise (Véhicules connectés et partage entre particuliers)
+          | Conception, Développement et déploiement d'une application back end RestFull dédiée à la nouvelle logique métier de l'entreprise (Gestion des comptes, gestion des réservations et des états des lieux de véhicules).
             - Python3 (Flask - SQLAlquemy) \| Mysql \| Docker \| Swagger \| JSON
             - Sécurisation par Authentification JWT.
             - Tests unitaires (Pytest)
